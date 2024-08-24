@@ -8,11 +8,11 @@ Welcome to Recipe Finder! This project is a responsive web and mobile applicatio
 
 ## Project Links
 
-- GitHub: [Recepie Radar -Web Version (React)](https://github.com/saurabhkumarr99/Culinary-Finder-Web)
+- GitHub: [Recepie Radar -Web Version (React)](https://github.com/codeopstrek/Recipe-Radar)
 
 - GitHub: [Recepie Radar -App Version (React Native)](https://github.com/saurabhkumarr99/Culinary-Finder-App)
 
-- Live: [Recepie Radar -Web Version (React)](https://saurabhkumarr99.github.io/Host-Culinary-Finder/)
+- Live: [Recepie Radar -Web Version (React)](https://codeopstrek.github.io/Recipe-Radar-Deploy/)
 
 
 - Live Expo Go QR code: Scan the following QR code with an Android device to open it in Expo Go.
